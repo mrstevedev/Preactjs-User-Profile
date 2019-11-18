@@ -1,4 +1,4 @@
-# my-preact-project
+# preact-profile-ui
 
 ## CLI Commands
 
