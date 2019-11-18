@@ -1,0 +1,17 @@
+.profile {
+	padding: 4rem 4rem;
+	min-height: 40%;
+	margin: 0 auto;
+	background: #fff;
+	box-shadow: 0 3px 9px #484848;
+	border-radius: 6px;
+	color: #333;
+	/* background-image: -webkit-linear-gradient(-75deg, #fff 50%, #f7f7f7 50%); */
+}
+
+@media(max-width: 485px) {
+	.profile {
+		width: 94%;
+		border-radius: 0;
+	}
+}
